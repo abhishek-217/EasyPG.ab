@@ -1,3 +1,6 @@
+//ignore the bootstrap file
 css/bootstrap.min.css
+
+//ignore js folder contain bootstrap and jquery files
 js/bootstrap.min.js
 js/jquery.js
